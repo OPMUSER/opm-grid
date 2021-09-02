@@ -41,6 +41,9 @@ Testing/
 *.pc
 install_manifest.txt
 
+# Build directory in source.
+build/
+
 # doxygen artifacts
 doc/doxygen/Doxyfile.in
 doc/doxygen/Doxyfile
